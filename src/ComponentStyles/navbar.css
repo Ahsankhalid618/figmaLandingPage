@@ -1,0 +1,51 @@
+.nav {
+  box-sizing: border-box;
+  position: absolute;
+  width: 108px;
+  height: 700px;
+  background: #ffffff;
+  border: 1px solid #ececec;
+}
+.vector {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 107px;
+  height: 71px;
+  left: 0px;
+  top: 0px;
+  background: #29b712;
+  cursor: pointer;
+}
+
+
+.navlist {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  width: 43px;
+  height: 623px;
+  left: 25px;
+  top: 86px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.3);
+}
+.list {
+  display: flex;
+  flex-direction: column;
+}
+.imag {
+  position: inherit;
+  width: 18px;
+  align-self: center;
+  height: 18px;
+  cursor: pointer;
+}

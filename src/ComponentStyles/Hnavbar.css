@@ -1,0 +1,92 @@
+#inputBar {
+  position: absolute;
+  width: 286px;
+  height: 25px;
+  left: 155px;
+  top: 18px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 140%;
+  color: rgba(36, 40, 49, 0.745);
+  border: none;
+  outline: none;
+}
+input::-webkit-input-placeholder {
+  color: rgba(36, 40, 49, 0.3);
+}
+.label {
+  position: absolute;
+  width: 42px;
+  height: 17px;
+  left: 1058px;
+  top: 25px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 140%;
+  text-align: center;
+  color: #6b6b6ba3;
+}
+.gender {
+  position: absolute;
+  width: 41px;
+  height: 17px;
+  left: 1112px;
+  top: 25px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  color: #242831;
+}
+.detail {
+  display: flex;
+}
+.detail1 {
+  position: absolute;
+  left: 70px;
+}
+.radio {
+  position: absolute;
+  width: 10.5px;
+  height: 6px;
+  left: 1166px;
+  top: 31px;
+  border: 1px solid #ffffff;
+  cursor: pointer;
+}
+.label1 {
+  position: absolute;
+  width: 86px;
+  height: 17px;
+  left: 1209px;
+  top: 25px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 140%;
+  color: #6b6b6ba3;
+}
+.member {
+  position: absolute;
+  width: 85px;
+  height: 17px;
+  left: 1307px;
+  top: 25px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  color: #242831;
+}
+.radio1 {
+  position: absolute;
+  width: 10.5px;
+  height: 6px;
+  left: 1413px;
+  top: 31px;
+  border: 1px solid #ffffff;
+  cursor: pointer;
+}
