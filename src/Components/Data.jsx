@@ -2,7 +2,7 @@ import React from "react";
 import "../ComponentStyles/data.css";
 function Data() {
   return (
-    <>
+    <div>
    
       <hr className="line" />
       <div className="info">
@@ -36,7 +36,7 @@ function Data() {
 
         <span className="last">VIEW ECG REPORT DOCUMENTS</span>
       </div>
-    </>
+    </div>
   );
 }
 
