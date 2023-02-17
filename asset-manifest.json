@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/figmaLandingPage/static/css/main.6b100973.css",
+    "main.js": "/figmaLandingPage/static/js/main.5a41ff07.js",
+    "static/js/787.573ea6bb.chunk.js": "/figmaLandingPage/static/js/787.573ea6bb.chunk.js",
+    "index.html": "/figmaLandingPage/index.html",
+    "main.6b100973.css.map": "/figmaLandingPage/static/css/main.6b100973.css.map",
+    "main.5a41ff07.js.map": "/figmaLandingPage/static/js/main.5a41ff07.js.map",
+    "787.573ea6bb.chunk.js.map": "/figmaLandingPage/static/js/787.573ea6bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b100973.css",
+    "static/js/main.5a41ff07.js"
+  ]
+}
